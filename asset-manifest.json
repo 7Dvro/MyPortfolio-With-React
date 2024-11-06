@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio-With-React/static/css/main.b65e3dff.css",
+    "main.js": "/MyPortfolio-With-React/static/js/main.eac6097d.js",
+    "static/css/487.bb36206c.chunk.css": "/MyPortfolio-With-React/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/MyPortfolio-With-React/static/js/487.7ae187c0.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/MyPortfolio-With-React/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/MyPortfolio-With-React/static/js/990.567a0b93.chunk.js",
+    "static/media/ACST.png": "/MyPortfolio-With-React/static/media/ACST.499f8b28ef7bd795a319.png",
+    "static/media/saqs.png": "/MyPortfolio-With-React/static/media/saqs.7cfffea73285dc4aeefd.png",
+    "static/media/IUA Logo.jpg": "/MyPortfolio-With-React/static/media/IUA Logo.03b22972f2d788fdb44e.jpg",
+    "static/media/cisco-operating-systems-basics.png": "/MyPortfolio-With-React/static/media/cisco-operating-systems-basics.baa7412b467386be273a.png",
+    "static/media/Montserrat-Regular.ttf": "/MyPortfolio-With-React/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/afm.png": "/MyPortfolio-With-React/static/media/afm.629eac3e93e7b439a9c6.png",
+    "static/media/Agustina.woff": "/MyPortfolio-With-React/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/IUA Logo.png": "/MyPortfolio-With-React/static/media/IUA Logo.e922df565fd2ec8b4dc8.png",
+    "static/media/network-support-and-security.png": "/MyPortfolio-With-React/static/media/network-support-and-security.1ee112a7642c55d18fb7.png",
+    "static/media/cisco-network-technician-career-path.png": "/MyPortfolio-With-React/static/media/cisco-network-technician-career-path.e56655cf2cbcc3b6c9da.png",
+    "static/media/ethical-hacker.png": "/MyPortfolio-With-React/static/media/ethical-hacker.b2007b170b826f9ec01c.png",
+    "static/media/manOnTable.svg": "/MyPortfolio-With-React/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/cisco-introduction-to-cybersecurity.png": "/MyPortfolio-With-React/static/media/cisco-introduction-to-cybersecurity.289fa1baef1e2bb98c04.png",
+    "static/media/Final.png": "/MyPortfolio-With-React/static/media/Final.faad5f7a8ba4abab93d6.png",
+    "static/media/contactMailDark.svg": "/MyPortfolio-With-React/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/MyPortfolio-With-React/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/MyPortfolio-With-React/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/MyPortfolio-With-React/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/MyPortfolio-With-React/index.html",
+    "static/media/talksCardBack.svg": "/MyPortfolio-With-React/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.b65e3dff.css.map": "/MyPortfolio-With-React/static/css/main.b65e3dff.css.map",
+    "main.eac6097d.js.map": "/MyPortfolio-With-React/static/js/main.eac6097d.js.map",
+    "487.bb36206c.chunk.css.map": "/MyPortfolio-With-React/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/MyPortfolio-With-React/static/js/487.7ae187c0.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/MyPortfolio-With-React/static/css/990.c6a7ee28.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/MyPortfolio-With-React/static/js/990.567a0b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65e3dff.css",
+    "static/js/main.eac6097d.js"
+  ]
+}
